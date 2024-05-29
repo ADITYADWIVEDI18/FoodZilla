@@ -11,6 +11,9 @@ FoodZilla is a web application built with React JS, Redux Toolkit, and Tailwind 
 - **Lazy loading**: Implemented lazy loading for the menu page, reducing the initial load time of the home page.
 - **Complete responsiveness**: Ensured that the web app is fully responsive, making it accessible across devices.
 
+![image](https://github.com/ADITYADWIVEDI18/FoodZilla/assets/104710359/0f082b93-c9a3-4120-86e3-8a0253f1bf22)
+
+
 ## Technologies Used
 
 - React JS
