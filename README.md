@@ -1,6 +1,6 @@
 # FoodZilla
 
-FoodZilla is a web application built with React JS, Redux Toolkit, and Tailwind CSS. It offers a user-friendly interface for browsing and ordering food from nearby restaurants.
+FoodZilla is a web application built with React JS, Redux Toolkit, and Tailwind CSS. It offers a user-friendly interface for browsing and ordering food from nearby restaurants. 
 
 ![Food Zilla](https://github.com/ADITYADWIVEDI18/FoodZilla/assets/104710359/ca21c196-9b2e-489d-9c16-cb3b8acfbacd)
 
